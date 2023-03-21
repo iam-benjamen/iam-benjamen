@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-👋 Hi, I’m Benjamen
-👀 I’m interested in people, products and technology
-💬 Ask me about web technologies like Java, Js & Ts
-🌱 I’m currently learning Java by building some fun projects
-💞️ I’m looking to collaborate on opensource projects, developer tools, startup ideas
-📫 How to reach me areotimileyin1@gmail.com
+- 👋 Hi, I’m Benjamen
+- 👀 I’m interested in people, products and technology
+- 💬 Ask me about web technologies like Java, Js & Ts
+- 🌱 I’m currently learning Java by building some fun projects
+- 💞️ I’m looking to collaborate on opensource projects, developer tools, startup ideas
+-  📫 How to reach me areotimileyin1@gmail.com
 <!--
 **iam-benjamen/iam-benjamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
