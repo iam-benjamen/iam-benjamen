@@ -2,7 +2,7 @@
 
 - 👋 Hi there, I’m Ben
 - 👀 I’m interested in people, products and technology
-- 💬 Ask me about web technologies like Golang, Java, Javascript & Typescript
+- 💬 Ask me about web technologies like Javascript & Typescript,Golang, Java, 
 - 🌱 I’m currently learning Java & Go by building some nice projects
 - 💞️ I’m looking to collaborate on projects & startup ideas
 -  📫 How to reach me areotimileyin1@gmail.com
