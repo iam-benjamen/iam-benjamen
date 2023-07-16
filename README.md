@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm Ben, a software developer who loves applying t
 ## 🔧 Skills & Tools
 Here are some of the technologies I work with:
 
-- 💻 Languages: TypeScript, Javascript, Java
-- ⚛️ Frameworks/Libraries: React.js & Next.js, Node.js & Express, Spring &SpringBoot
+- 💻 Languages: TypeScript, Java
+- ⚛️ Frameworks/Libraries: React, Node.js, Spring
 - 📦 Databases: MongoDB, PostgreSQL
 - 🚀 Tools: Git, JetBrains IDEs, Docker
   
