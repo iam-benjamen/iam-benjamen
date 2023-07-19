@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Ben, a software developer who loves applying tech to solving problems and building valuable products. I'm currently honing my backend skills.
+Welcome to my GitHub profile! I'm Ben, a software engineer applying tech to solving problems and building useful products. I'm currently honing my backend skills.
 
 ## 🔧 Skills & Tools
 Here are some of the technologies I work with:
