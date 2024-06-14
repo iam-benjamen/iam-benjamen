@@ -8,7 +8,7 @@ Here are some of the technologies I work with:
 - 💻 Languages: Python, Javascript/TypeScript, Java.
 - ⚛️ Frameworks/Libraries: React& Next.js, Node.js/Express.js/ Nest.js.
 - 📦 Databases: MongoDB, PostgreSQL.
-- Cloud & OS: Linux, AWS.
+- ☁️ Cloud & OS: Linux, AWS.
 - 🚀 Tools: Vim, JetBrains IDEs.
   
 And many more! Kindly Check out my repositories or blog to see the projects I've been working on.
