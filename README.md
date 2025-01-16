@@ -6,9 +6,7 @@ Welcome to my GitHub profile! I'm Ben, a software engineer applying tech to solv
 Here are some of the technologies I work with:
 
 - 💻 Languages: Python, Go, Javascript/TypeScript, Java.
-- ⚛️ Frameworks/Libraries: React& Next.js, Node.js/Express.js/ Nest.js.
-- 📦 Databases: PostgreSQL.
-- ☁️ Cloud & OS: Linux, AWS.
-- 🚀 Tools: Vim, JetBrains IDEs.
+- ⚛️ Frameworks/Libraries: React, Next.js, Node.js, Express.js, Nest.js.
+- 📦 Databases: PostgreSQL, MongoDB.
+- 🚀 Tools: AWS, Linux, Git, Docker, Vim.
   
-And many more! Kindly Check out my repositories or blog to see the projects I've been working on.
