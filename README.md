@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Ben, a software engineer passionate about appl
 ## 🔧 Skills & Tools
 Here are some of the technologies I work with:
 
-- 💻 Programming Languages: Java, Python, JavaScript/Typescript.
+- 💻 Programming Languages: Java, Python, Go JavaScript/Typescript.
 - ⚛️ Frameworks/Libraries: SpringBoot, React&Next.js, Node.js(Express, Nestjs).
 - 📦 Databases: PostgreSQL, MongoDB.
 - ☁️ Cloud: AWS, GCP, Firebase.
